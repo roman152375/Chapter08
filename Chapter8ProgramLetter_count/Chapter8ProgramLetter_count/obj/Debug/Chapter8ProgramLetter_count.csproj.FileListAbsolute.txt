@@ -1,0 +1,9 @@
+C:\Roman VS\Chapter8ProgramLetter_count\Chapter8ProgramLetter_count\obj\Debug\Chapter8ProgramLetter_count.csprojAssemblyReference.cache
+C:\Roman VS\Chapter8ProgramLetter_count\Chapter8ProgramLetter_count\obj\Debug\Chapter8ProgramLetter_count.Form1.resources
+C:\Roman VS\Chapter8ProgramLetter_count\Chapter8ProgramLetter_count\obj\Debug\Chapter8ProgramLetter_count.Properties.Resources.resources
+C:\Roman VS\Chapter8ProgramLetter_count\Chapter8ProgramLetter_count\obj\Debug\Chapter8ProgramLetter_count.csproj.GenerateResource.cache
+C:\Roman VS\Chapter8ProgramLetter_count\Chapter8ProgramLetter_count\bin\Debug\Chapter8ProgramLetter_count.exe.config
+C:\Roman VS\Chapter8ProgramLetter_count\Chapter8ProgramLetter_count\bin\Debug\Chapter8ProgramLetter_count.exe
+C:\Roman VS\Chapter8ProgramLetter_count\Chapter8ProgramLetter_count\bin\Debug\Chapter8ProgramLetter_count.pdb
+C:\Roman VS\Chapter8ProgramLetter_count\Chapter8ProgramLetter_count\obj\Debug\Chapter8ProgramLetter_count.exe
+C:\Roman VS\Chapter8ProgramLetter_count\Chapter8ProgramLetter_count\obj\Debug\Chapter8ProgramLetter_count.pdb
